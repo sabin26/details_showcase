@@ -1,16 +1,11 @@
 # details_showcase
 
-A new Flutter project.
+<kbd><img src="screenshots/Screenshot_1.jpg" width="250"/></kbd>&emsp;<kbd><img src="screenshots/Screenshot_2.jpg" width="250"/></kbd>&emsp;<kbd><img src="screenshots/Screenshot_3.jpg" width="250"/></kbd>
 
-## Getting Started
+<kbd><img src="screenshots/Screenshot_4.jpg" width="250"/></kbd>&emsp;<kbd><img src="screenshots/Screenshot_5.jpg" width="250"/></kbd>&emsp;<kbd><img src="screenshots/Screenshot_6.jpg" width="250"/></kbd>
 
-This project is a starting point for a Flutter application.
+<kbd><img src="screenshots/Screenshot_7.jpg" width="250"/></kbd>&emsp;<kbd><img src="screenshots/Screenshot_8.jpg" width="250"/></kbd>&emsp;<kbd><img src="screenshots/Screenshot_9.jpg" width="250"/></kbd>
 
-A few resources to get you started if this is your first Flutter project:
+<kbd><img src="screenshots/Screenshot_10.jpg" width="250"/></kbd>&emsp;<kbd><img src="screenshots/Screenshot_11.jpg" width="250"/></kbd>&emsp;<kbd><img src="screenshots/Screenshot_12.jpg" width="250"/></kbd>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<kbd><img src="screenshots/Screenshot_13.jpg" width="250"/></kbd>&emsp;<kbd><img src="screenshots/Screenshot_14.jpg" width="250"/></kbd>&emsp;<kbd><img src="screenshots/Screenshot_15.jpg" width="250"/></kbd>
